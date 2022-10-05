@@ -8,7 +8,8 @@
 </head>
 <body>
     <?php // ouverture de php
-    // affiche la ligne de texte php
+
+    // affiche la ligne : echo "text" php
     echo"<h1>Hello cf2m </h1>";
     // fermeture de php ?>
 </body>
