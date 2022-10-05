@@ -15,5 +15,20 @@ Les noms de variables suivent les mêmes règles de nommage que les autres entit
     <h2>Utilité des variables</h2>
     <p> Elles servent à stocker les infos</p>
     <p> Elles peuvent être manipulées, affichées, sauvegardées, détruites etc...</p>
+
+    <pre>
+        $lulu =5;
+        $5main =3;
+        $___coucou =7;
+    <?php
+    $lulu =5;
+    echo '$lulu = ';
+    echo "$lulu <br> ";
+
+    $lala = "yes";
+    echo '$lala = ';
+    echo "$lala <br>";
+
+    ?>
 </body>
 </html>
